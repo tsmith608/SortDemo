@@ -4,7 +4,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
 
-public class Smith_Assignment_1 {
+public class SortDemo {
 
     public static int[] generateRandomArray(int size) {
         int[] array = new int[size];
